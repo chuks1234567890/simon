@@ -106,7 +106,6 @@ body{
     border-radius: 50%;
     color: #fff;
     font-size: 30px;
-    border: 7px solid #F6EFE7;
     padding-left: 5px;
     transform: scale(1.2);
     animation: scale 1s linear infinite;
